@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(5, 5, 5);
+}
+
+.center {
+    text-align: center;
+}
+
+#green {
+    color: lightgreen;
+}
+
+#white {
+    color: whitesmoke;
+}
+
+#other1 {
+    color: white;
+}
+
+#other2 {
+    color: whitesmoke;
+}
+
+#other3 {
+    color: white;
+}
+
+#other4 {
+    color: whitesmoke;
+}
